@@ -2,7 +2,7 @@
 **Data Analyst | Power BI | Python | SQL | Data Visualization**
 
 I’m a data analyst focused on turning raw data into clear, actionable insights.  
-My projects span **business analytics, healthcare risk analysis, lifestyle tracking, text analysis, and log parsing**, with an emphasis on real-world datasets and decision-making.
+My projects span **business analytics, healthcare risk analysis, lifestyle tracking, and sentimental analysis**, with an emphasis on real-world datasets and decision-making.
 
 ---
 
