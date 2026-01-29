@@ -1,54 +1,62 @@
 # Hi, I'm Kevin 👋  
-**Data Analyst | Power BI | Python | SQL | Data Visualization**
 
-I’m a data analyst focused on turning raw data into clear, actionable insights.  
-My projects span **business analytics, healthcare risk analysis, lifestyle tracking, and sentimental analysis**, with an emphasis on real-world datasets and decision-making.
+I’m a data analyst focused on transforming raw data into actionable insights.  
+My work spans **business analytics, healthcare analysis, lifestyle tracking, text analytics, and log parsing**, using real-world datasets and practical tools.
 
 ---
 
 ## 🔍 Featured Projects
 
 ### 📊 CRM Sales Analysis  
-**Power BI Dashboard**  
-Analyzed CRM sales data to evaluate revenue performance across regions, products, and time periods. Built interactive dashboards with KPIs, trends, and slicers to help stakeholders identify growth opportunities and performance gaps.  
+**Sales performance and business insights dashboard**
+
+**Tools:** Power BI, Excel, Data Modeling, DAX  
+Analyzed CRM sales data to evaluate revenue performance across regions, products, and time periods. Built interactive dashboards with KPIs, trends, and slicers to support data-driven decision-making.  
 🔗 https://github.com/bricklemming3817/-CRM-Sales-Analysis
 
 ---
 
 ### 🧠 Diabetes Risk Analysis  
-**Python | Data Analysis | Machine Learning**  
-Performed exploratory data analysis and predictive modeling to assess diabetes risk based on medical and lifestyle indicators. Focused on feature relationships, model evaluation, and healthcare insights.  
+**Predictive analysis of diabetes risk factors**
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+Performed exploratory data analysis and predictive modeling to assess diabetes risk using medical and lifestyle indicators. Evaluated feature relationships and model performance to derive healthcare insights.  
 🔗 https://github.com/bricklemming3817/diabetes-risk-analysis
 
 ---
 
 ### 🏃 Lifestyle Tracker  
-**Power BI | Health Analytics**  
-Designed an interactive lifestyle dashboard tracking nutrition, water intake, steps, and weight trends over time. Enabled pattern recognition and habit monitoring through dynamic visuals and KPIs.  
+**Personal health and wellness analytics dashboard**
+
+**Tools:** Power BI, Excel, Data Visualization, KPI Design  
+Developed an interactive dashboard to track nutrition, water intake, physical activity, and weight trends over time. Enabled habit monitoring through dynamic visuals and metrics.  
 🔗 https://github.com/bricklemming3817/Lifestyle-Tracker
 
 ---
 
 ### 🎬 Movie Review Analysis  
-**Python | NLP | Text Analysis**  
-Analyzed movie reviews to extract sentiment and patterns in audience feedback. Applied text preprocessing and exploratory techniques to uncover trends in ratings and reviews.  
+**Sentiment and text pattern analysis**
+
+**Tools:** Python, Pandas, NLTK / Text Processing, Data Visualization  
+Analyzed movie reviews to extract sentiment and uncover patterns in audience feedback. Applied text preprocessing and exploratory analysis techniques to interpret review trends.  
 🔗 https://github.com/bricklemming3817/movie-review
 
 ---
 
 ### 📡 Telecom Log Parsing  
-**Python | Log Analysis | Automation**  
-Parsed and analyzed telecom log files to extract structured information from raw logs. Focused on error detection, pattern recognition, and efficient data processing.  
+**Log data extraction and automation**
+
+**Tools:** Python, Regular Expressions (Regex), File Handling, Data Processing  
+Parsed raw telecom log files to extract structured information, identify error patterns, and automate log analysis for faster diagnostics.  
 🔗 https://github.com/bricklemming3817/telecom-log-parsing
 
 ---
 
-## 🛠️ Skills & Tools
-- Power BI  
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+## 🛠️ Core Skills
+- Power BI & Dashboard Development  
+- Python for Data Analysis  
 - SQL  
 - Data Cleaning & EDA  
-- Dashboard Design  
 - Business & Healthcare Analytics  
 - Data Storytelling  
 - Text & Log Analysis  
@@ -56,8 +64,6 @@ Parsed and analyzed telecom log files to extract structured information from raw
 ---
 
 ## 📬 Connect
-- LinkedIn: https://www.linkedin.com/in/kevinvarghese1600/
+- LinkedIn: *add your link here*
 
----
-
-⭐ Feel free to explore my repositories and projects.
+⭐ Explore my repositories to see how I turn data into insight.
