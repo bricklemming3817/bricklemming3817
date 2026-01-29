@@ -64,6 +64,6 @@ Parsed raw telecom log files to extract structured information, identify error p
 ---
 
 ## 📬 Connect
-- LinkedIn: *add your link here*
+- LinkedIn: https://www.linkedin.com/in/kevinvarghese1600/
 
 ⭐ Explore my repositories to see how I turn data into insight.
