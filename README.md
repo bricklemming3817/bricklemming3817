@@ -59,7 +59,6 @@ Parsed raw telecom log files to extract structured information, identify error p
 - Data Cleaning & EDA  
 - Business & Healthcare Analytics  
 - Data Storytelling  
-- Text & Log Analysis  
 
 ---
 
